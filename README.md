@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 --!>
-
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBDavisson&theme=tokyonight)](https://github.com/JBDavisson/github-readme-stats)
 
 <!--
